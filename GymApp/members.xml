@@ -1,0 +1,12 @@
+<object-stream>
+  <list>
+    <models.Member>
+      <memberId>100000</memberId>
+      <memberName>Manzi</memberName>
+      <memberAddress>10 ath</memberAddress>
+      <height>1.6</height>
+      <startingWeight>78.0</startingWeight>
+      <gender>M</gender>
+    </models.Member>
+  </list>
+</object-stream>
